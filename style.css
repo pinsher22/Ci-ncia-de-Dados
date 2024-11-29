@@ -1,10 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Tomorrow&display=swap');
 
 :root {
-  --bg-color: #6F4E37;
-  --primary-color: #ECB176;
-  --secundary-color: #FED8B1;
-  --font: Josefin Sans;
+  --bg-color: #9CDBA6;
+  --primary-color: #468585;
+  --secundary-color: #DEF9C4;
+  --font: Tomorrow;
 }
 body {
   background-color: var(--bg-color);
